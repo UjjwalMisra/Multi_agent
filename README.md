@@ -6,6 +6,8 @@ A multi-agent system that generates AI/GenAI use case proposals for companies or
 ![image](https://github.com/user-attachments/assets/bf92450a-da72-4365-ba09-045e866835d5)
 
 ![image](https://github.com/user-attachments/assets/a7251d32-d712-4754-b47b-65cd573ed10b)
+![image](https://github.com/user-attachments/assets/d649e5a2-df0d-4923-beb6-4ddccd17382b)
+
 
 
 ## Features
