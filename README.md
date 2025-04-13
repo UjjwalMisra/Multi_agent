@@ -3,6 +3,7 @@
 A multi-agent system that generates AI/GenAI use case proposals for companies or industries, supporting both cloud-based (OpenAI) and local (Ollama) LLMs.
 
 ![image](https://github.com/user-attachments/assets/4ba135d5-1781-45d2-8880-7da632c4075c)
+![image](https://github.com/user-attachments/assets/bf92450a-da72-4365-ba09-045e866835d5)
 
 ## Features
 
